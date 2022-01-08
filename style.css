@@ -6,7 +6,7 @@ body{
 	margin: 0;
 	padding: 0;
 	font-family: Comic Sans M;
-	background-color: blanchedalmond;
+	background-color: lightBlue;
 }
 img.logo{
 	width: 5%;
@@ -41,7 +41,7 @@ li a:hover{
 	color: black;
 }
 .active{
-	background-color: #FFA500;
+	background-color: darkblue;
 }
 
 .column{
@@ -88,7 +88,7 @@ p.foodSample{
 	border: solid black 2.5px;
 }
 .footer{
-	background-color: #FFA500;
+	background-color: darkblue;
 	color: white;
 	padding: 20px;
 	bottom: 0;
